@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**gokul-kancharla/gokul-kancharla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋 I'm Gokul
 
-Here are some ideas to get you started:
+I'm a Computer Science undergraduate currently interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming in Python and C++
+- Machine Learning fundamentals and deep learning
+- Learning concepts by building things from scratch
+- reverse engineering
+- interested in low-level stuff 
+
+### Projects
+- MNIST neural network implemented from scratch (NumPy)
+
+I'm focused on improving step by step and gaining a deep understanding of things.
