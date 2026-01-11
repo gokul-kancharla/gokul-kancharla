@@ -2,7 +2,7 @@
 
 ## Hi 👋 I'm Gokul
 
-I'm a Computer Science undergraduate currently interested in:
+I'm a Computer and Communication Science undergraduate currently interested in:
 
 - Programming in Python and C++
 - Machine Learning fundamentals and deep learning
